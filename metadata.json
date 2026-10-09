@@ -1,0 +1,6 @@
+{
+  "name": "AI Notes Summarizer – Smart Study Assistant",
+  "description": "Transform lecture notes, textbooks, and study materials into concise summaries, key points, definitions, interactive quizzes, and flashcards in English and Urdu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
